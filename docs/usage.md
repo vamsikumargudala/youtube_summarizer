@@ -7,7 +7,7 @@
 git clone https://github.com/yourusername/youtube-summarizer.git
 cd youtube-summarizer
 poetry install
-
+```
 
 ```mermaid
 graph TB

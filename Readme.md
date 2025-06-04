@@ -2,7 +2,6 @@
 
 🎬 AI-powered tool for extracting transcripts and generating intelligent summaries from YouTube videos.
 
-[![CI](https://github.com/vamsikumargudala/youtube-summarizer/workflows/CI/badge.svg)](https://github.com/vamsikumargudala/youtube-summarizer/actions)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 ## Features
@@ -32,3 +31,8 @@ youtube-summarizer "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 # Web UI
 streamlit run src/streamlit_app.py
+```
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
