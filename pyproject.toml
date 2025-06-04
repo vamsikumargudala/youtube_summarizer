@@ -2,9 +2,8 @@
 name = "youtube-summarizer"
 version = "0.1.0"
 description = "AI-powered YouTube video summarizer with transcript extraction and analysis"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Vamsikumar <vamsikumar196@gmail.com>"]
 readme = "README.md"
-packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9,!=3.9.7,<4.0"
